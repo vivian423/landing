@@ -1,0 +1,17 @@
+.btn-website {
+  border-radius: 20px;
+  width: 60px;
+  border: 1px solid #999999;
+  padding: 15px 25px;
+  color: rgba(245, 245, 245, 0.815);
+  background-color: rgba(128, 128, 128, 0.663);
+  font-size: 14px;
+  font-weight: lighter;
+  transition: background 0.3s ease;
+  margin-top: 50px;
+}
+
+.btn-website:hover {
+  color:  #858484;
+  border: 1px solid #7b7b7b;
+}
